@@ -27,6 +27,9 @@ public class CurrencyConverter {
             
             // Menampilkan hasil konversi
             System.out.println("Jumlah dalam mata uang tujuan: " + amountInDestinationCurrency);
+
+            System.out.println("Bangke lu");
+            System.out.println("alamak walaweeeeeeeeeeeeeeeeeeeeeee");
         }
     }
 }
